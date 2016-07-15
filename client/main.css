@@ -1,0 +1,13 @@
+/* CSS declarations go here */
+
+
+.listWidget {
+    width:12em;
+    display:flex;
+    flex-direction: column;
+    padding: 0.2em;
+}
+
+.userListContainer {
+    height:20em
+}
